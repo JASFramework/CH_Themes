@@ -1,0 +1,49 @@
+/* Type your CSS code here. */
+
+/* Colors: #74B1BE */
+
+/* Background */
+body {
+  font-family: 'Quantico', 'Times New Roman'
+}
+
+.ipsApp {
+  background-image: url('https://raw.githubusercontent.com/JASFramework/CH_Themes/main/img/grid.jpg');
+  background-repeat: repeat;
+  background-position: center;
+}
+
+/**/
+.ipsDataItem_main {
+  background-color: #232323;
+}
+
+.ipsDataItem_icon, ipsDataItem_category {
+  background-color:  #232323;
+}
+
+.ipsDataItem_stats, ipsDataItem_statsLarge {
+  background-color:  #232323;
+}
+
+.ipsDataItem_lastPoster, ipsDataItem_withPhoto {
+  background-color:  #232323;
+}
+
+
+a {
+  color: #F7B531;
+  /*font-size: 18px;*/
+}
+
+/* Form Titles */
+.cForumList .ipsDataItem_title {
+  font-size: 22px;
+}
+
+/* Form Descriptions */
+.ipsDataItem_main {
+  font-size: 16px;
+}
+
+

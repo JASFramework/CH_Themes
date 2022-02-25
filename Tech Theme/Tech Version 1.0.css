@@ -1,0 +1,35 @@
+/* Type your CSS code here. */
+
+/* Colors: #74B1BE */
+
+/* Background */
+body {
+  background-image: url('https://raw.githubusercontent.com/JASFramework/CH_Themes/main/img/grid.jpg');
+  background-repeat: repeat;
+  background-position: center;
+/*background-size: cover;
+  background-color: #474966; 
+  background-image: url('dots.jpg'); */
+}
+
+/**/
+.ipsDataItem_main {
+  background-color: #232323;
+}
+
+.ipsDataItem_icon, ipsDataItem_category {
+  background-color:  #232323;
+}
+
+.ipsDataItem_stats, ipsDataItem_statsLarge {
+  background-color:  #232323;
+}
+
+.ipsDataItem_lastPoster, ipsDataItem_withPhoto {
+  background-color:  #232323;
+}
+
+
+a {
+  color: #F7B531;
+}
